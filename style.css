@@ -1,0 +1,224 @@
+.genel{
+	width:100%;
+	height:auto;
+	margin:0 auto;
+}
+.ust{
+	width:100%;
+    height:120px;
+	background:#e07321;
+}
+.logo img{
+	width:200px;
+	height:120px;
+	margin-left:15px;
+	margin-top:10px;
+	float:left;
+}
+.menu{
+	width:800px;
+	height:100px;
+	float:left;
+	margin-top:20px;
+	margin-left:30px;
+	
+}
+
+.menu ul li{ float:left;
+             padding:10px;
+			 font-size:20px;
+			 line-height:10px;
+	         list-style-type:none;
+}
+.menu ul li a{
+	color:#090401;
+	text-decoration:none;
+}
+.menu ul li a:hover{
+	color:#D4C8C9;
+}
+.icon{
+	height:40px;
+	float:right;
+    margin-right:60px;
+    margin-top:30px;
+}
+.telefon{
+	height:40px;
+	float:right;
+    margin-right:70px;
+    margin-top:12px;
+}
+
+.icon img{
+	width:40px;
+	height:40px;
+    margin-right: 8px;
+}
+.icerik{
+height:auto;
+}
+
+.resim1 img{
+width:100%;
+height:400px;
+margin-top:10px;
+
+}
+
+.bolum1{
+    float: left;
+    height: 350px;
+    width: 50%;
+    background: wheat;
+}
+.bolum1 img{
+    margin: 6px;
+}
+.bolum2{
+    float: right;
+    height: auto;
+    height: 350px;
+    width: 49%;
+    background: wheat;
+}
+.bolum2 p{
+	font-size:15px;
+	margin-left:10px;
+	margin-top:20px;
+	color:#fff;
+}
+.bolum2 ul li {
+	margin: inherit;
+    color: brown;
+}
+.bolum2 ul li a {
+    color: black;
+}
+.hakkimizda{
+    padding: 30px;
+    background-color: wheat;	
+}
+.projelerimiz {
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #d94d27;
+}
+.projelerimiz div{
+    float: left;
+    padding: 2px;
+}
+.projelerimiz p{
+    margin-top: -5px;
+    text-align: center;
+}
+.projelerimiz div img{
+	width:100%;
+	margin:16px;
+	color:#090401;
+	text-decoration:none;
+	height:175px;
+}
+.iletişim{
+    background-color: wheat;
+    float: left;
+    height: 440px;
+    width: 85%;
+    margin-left: 120px;
+}
+
+.adres1{
+    padding: 30px;
+    background-color: wheat;
+	float:left;
+	width:auto;
+	margin:10px;
+}
+.adres2{
+    padding: 30px;
+    background-color: wheat;
+	float:left;
+	width:auto;
+	margin:10px;
+}
+.insankaynakları{
+    width: fit-content;
+    padding: 30px;
+    background-color: wheat;
+    margin-top: 20px;
+}
+.hizmetler{
+	font-size:17px;
+	width:100%;
+    padding: 30px;
+    background-color: wheat;	
+}
+.hizmetler p {
+width: 45%;
+}
+.alt {
+	width:100%;
+	background:#e07321;
+}
+.alt2 {
+	width:100%;
+	
+	background:#e07321;
+	margin-top:710px;
+}
+.alt3 {
+	width:100%;
+	
+	background:#e07321;
+	margin-top:-15px;
+}
+.h2 {
+	text-align: center;
+	
+	
+}
+.eleman{
+    float: right;
+    margin-right: 120px;
+    margin-top: -350px;
+    width: 27%;
+}
+.telefon2{
+	height:40px;
+	float:right;
+    margin-right:70px;
+    margin-top:-40px;
+}
+.telefon3{
+	height:40px;
+	float:right;
+    margin-right:70px;
+    margin-top:15px;
+}
+.resim2 img{
+	margin-bottom: 20px;
+}
+
+.insaat{
+	margin-left: 720px;
+    margin-top: -325px;
+}
+.proje{
+	margin-left: 720px;
+    margin-top: -800px;
+}
+.proje2 img{
+	margin-left: 720px;
+    margin-top: 40px;
+}
+.ik img{
+	margin-left: 780px;
+	margin-top:-120px;
+}
+.checkbox {
+	width: 467px;
+	margin-left: 30px;
+}
